@@ -1,0 +1,1 @@
+epoch:1	EmbeddingSimilarity:-0.0415140002967309	nll-test:1.5674418	Bleu2:0.6444915834117066	
